@@ -1,0 +1,9 @@
+{
+  "locations": [
+    {
+      "path": "/",
+      "host": "http://wordpress:80",
+      "modifyResponse": true
+    }
+  ]
+}
